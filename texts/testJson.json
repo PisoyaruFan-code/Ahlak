@@ -5,7 +5,6 @@
     "Email": "ahmet@example.com",
     "Settings": "{\"Theme\": \"Dark\", \"FontSize\": 14}"
   },
-
   "Inventory": {
     "Items": [
       {
@@ -27,7 +26,6 @@
     "Capacity": 50,
     "AutoSort": true
   },
-
   "World": {
     "Regions": [
       {
@@ -47,7 +45,6 @@
           "Intensity": 0.7
         }
       },
-
       {
         "Name": "Desert",
         "Monsters": [
@@ -67,7 +64,6 @@
       }
     ]
   },
-
   "Quests": {
     "Active": [
       {
