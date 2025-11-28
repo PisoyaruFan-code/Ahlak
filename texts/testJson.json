@@ -1,9 +1,9 @@
 {
   "User": {
-    "Id": 1283,
-    "Name": "Ahmet Yilmaz",
-    "Email": "ahmet@example.com",
-    "Settings": "{\"Theme\": \"Dark\", \"FontSize\": 14}"
+    "Id": "10",
+    "Name": "test",
+    "Email": "test@test.com",
+    "Settings": "selman"
   },
   "Inventory": {
     "Items": [
