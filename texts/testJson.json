@@ -1,1 +1,87 @@
-ew0KICAiVGVzdEtleSI6ICJ0ZXN0Ig0KfQ==
+{
+  "User": {
+    "Id": 1283,
+    "Name": "Ahmet Yilmaz",
+    "Email": "ahmet@example.com",
+    "Settings": "{\"Theme\": \"Dark\", \"FontSize\": 14}"
+  },
+
+  "Inventory": {
+    "Items": [
+      {
+        "Id": 1,
+        "Name": "Sword",
+        "Stats": "{\"Damage\": 25, \"Durability\": 80}"
+      },
+      {
+        "Id": 2,
+        "Name": "Shield",
+        "Stats": "{\"Defense\": 40, \"Durability\": 150}"
+      },
+      {
+        "Id": 3,
+        "Name": "Potion",
+        "Stats": "{\"Heal\": 50, \"Cooldown\": 10}"
+      }
+    ],
+    "Capacity": 50,
+    "AutoSort": true
+  },
+
+  "World": {
+    "Regions": [
+      {
+        "Name": "Forest",
+        "Monsters": [
+          {
+            "Type": "Wolf",
+            "Attributes": "{\"HP\": 120, \"Damage\": 15}"
+          },
+          {
+            "Type": "Bear",
+            "Attributes": "{\"HP\": 300, \"Damage\": 35}"
+          }
+        ],
+        "Weather": {
+          "Type": "Rain",
+          "Intensity": 0.7
+        }
+      },
+
+      {
+        "Name": "Desert",
+        "Monsters": [
+          {
+            "Type": "Scorpion",
+            "Attributes": "{\"HP\": 80, \"Damage\": 10}"
+          },
+          {
+            "Type": "Sand Golem",
+            "Attributes": "{\"HP\": 500, \"Damage\": 50}"
+          }
+        ],
+        "Weather": {
+          "Type": "Hot",
+          "Temperature": 42
+        }
+      }
+    ]
+  },
+
+  "Quests": {
+    "Active": [
+      {
+        "Id": 201,
+        "Title": "Forest Cleanup",
+        "Data": "{\"Progress\": 2, \"Required\": 10, \"Reward\": \"50 Gold\"}"
+      }
+    ],
+    "Completed": [
+      {
+        "Id": 99,
+        "Title": "Welcome to the Village",
+        "Data": "{\"XP\": 100, \"Items\": [\"Map\", \"Wooden Sword\"]}"
+      }
+    ]
+  }
+}
