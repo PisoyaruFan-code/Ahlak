@@ -1,1 +1,10 @@
-{}
+{
+  "TestKonuBasligi": {
+    "Full": {
+      "testBaslik": "Bu bir tam metindir"
+    },
+    "Ozet": {
+      "testBaslik": "Bu bir özet metindir"
+    }
+  }
+}
