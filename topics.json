@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Ahlak Kavramı",
+    "description": "İyi–kötü ve doğru–yanlış ölçütleriyle insan davranışlarını düzenleyen temel ilkeler.",
+    "color": "from-red-400 to-red-500",
+    "contentPath": "data/topics/1.json"
+  },
+  {
+    "id": 2,
+    "title": "Ahlakın Kaynakları",
+    "description": "Ahlaki ilkelerin dinî, felsefi ve kültürel temellerini açıklayan kapsamlı bir yaklaşım.",
+    "color": "from-red-500 to-red-600",
+    "contentPath": "data/topics/2.json"
+  }
+]
