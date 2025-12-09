@@ -1,0 +1,27 @@
+{
+  "title": "Yapım Ekibi",
+  "teams": [
+    {
+      "name": "Geliştirme",
+      "members": [
+        {
+          "name": "Muhammed Haki Gürer",
+          "role": "Geliştirici",
+          "email": "lolultrahasagi@gmail.com",
+          "url": "https://github.com/..."
+        }
+      ]
+    },
+    {
+      "name": "İçerik",
+      "members": [
+        {
+          "name": "Selman Küçük",
+          "role": "Genel İçerik Sağlayıcı",
+          "email": "email@example.com",
+          "url": "https://example.com"
+        }
+      ]
+    }
+  ]
+}
