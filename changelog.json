@@ -1,4 +1,5 @@
 [
-    { "version": "0.0.0", "date": "8.12.2025", "items": ["Ana hatlar oluşturuldu."] },
-    { "version": "0.0.1", "date": "9.12.2025", "items": ["Yapım ekibi sayfası güncellendi. Ve içeriği eklendi."] }
+    { "version": "0.0.0", "date": "1.12.2025", "items": ["Ana hatlar oluşturuldu."] },
+    { "version": "0.0.1", "date": "3.12.2025", "items": ["Yapım ekibi sayfası güncellendi. Ve içeriği eklendi."] },
+    { "version": "0.0.2", "date": "6.12.2025", "items": ["Konu sayfası güncellendi, tam yazılar eklendi."] }
 ]
