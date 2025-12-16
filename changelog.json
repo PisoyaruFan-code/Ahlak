@@ -1,7 +1,7 @@
 [
     { "version": "0.0.0", "date": "1.12.2025", "items": ["Ana hatlar oluşturuldu."] },
     { "version": "0.0.1", "date": "6.12.2025", "items": ["İnternet'e erişim sorunu düzeltildi"] },
-    { "version": "0.0.2", "date": "3.12.2025", "items": ["Yapım ekibi sayfası güncellendi. Ve içeriği eklendi."] },
-    { "version": "0.0.3", "date": "6.12.2025", "items": ["Konu sayfası güncellendi, tam yazılar eklendi. Otomatik güncelleme ve manuel kontrol etme eklendi."] },
+    { "version": "0.0.2", "date": "9.12.2025", "items": ["Yapım ekibi sayfası güncellendi. Ve içeriği eklendi."] },
+    { "version": "0.0.3", "date": "12.12.2025", "items": ["Konu sayfası güncellendi, tam yazılar eklendi. Otomatik güncelleme ve manuel kontrol etme eklendi."] },
     { "version": "0.0.4", "date": "16.12.2025", "items": ["Oyunlar sayfası güncellendi, kelime eşleştirme eklendi. \n İçerik sayfası güncellendi müzik, görsel ve video desteği eklendi."] }
 ]
